@@ -21,7 +21,7 @@ function App() {
     setAddCard(true);
   }
 
-  const [selectedCard, setSelectedCard] = React.useState(undefined);
+  const [selectedCard, setSelectedCard] = React.useState();
   function handleCardClick(card) {
     setSelectedCard(card);
   }
@@ -30,7 +30,7 @@ function App() {
     setEditProfile(false);
     setEditAvatar(false);
     setAddCard(false);
-    handleCardClick(undefined);
+    handleCardClick();
   }
 
   React.useEffect(() => {
