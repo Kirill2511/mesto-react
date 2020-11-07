@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,29 +23,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4eec4e9-25d9-4d7b-937d-6e730fa2b0af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonClose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PopupWithForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PopupWithImage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mesto-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__container/_like/element__container_like.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__container/element__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__count-likes/card__count-likes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__delete/_invisible/element__delete_invisible.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__delete/element__delete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__heart/_active/element__heart_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__heart/element__heart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__image/element__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/__title/element__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/element/element.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/elements/__container/elements__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/elements/elements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/page/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__button/_disabled/popup__button_disabled.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__button/popup__button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__card-about/popup__card-about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__close-icon/popup__close-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__container/popup__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__delete-form/popup__delete-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__fields/popup__fields.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__form/popup__form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__gallery/popup__gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__image/popup__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__input-error/_active/popup__input-error_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__input-error/popup__input-error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__input/_type/popup__input_type_error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__item/popup__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__label/popup__label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/__title/popup__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/_opened/popup_opened.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/popup/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__add-button/profile__add-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__avatar-edit/profile__edit-avatar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__avatar/profile__avatar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__edit-button/profile__edit-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__info/profile__info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__subtitle/profile__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__title/profile__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/__wrapper/profile__wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/profile/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/add-buttom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/close-Icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/delet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/edit-buttom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/edit-pen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/kirill-pershin-1088404-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/kirill-pershin-1404681-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/kirill-pershin-1556355-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/like-activ.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/like.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pointer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ButtonClose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +153,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1jwmJNAv5gSFcKGWZqUGCHVnuz6" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -102,18 +165,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\Desktop\GitHub\mesto-react\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\Desktop\GitHub\mesto-react\src\components" />
       <recent name="C:\Users\kiril\Desktop\GitHub\mesto-react\src" />
     </key>
   </component>
@@ -125,7 +197,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604723456820</updated>
-      <workItem from="1604723458490" duration="607000" />
+      <workItem from="1604723458490" duration="883000" />
+      <workItem from="1604724364447" duration="230000" />
+      <workItem from="1604724602313" duration="1152000" />
     </task>
     <task id="LOCAL-00001" summary="Delete">
       <created>1604723500470</created>
@@ -141,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604723603700</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1604724108402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604724108402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1604724114899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604724114899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,20 +245,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="164" key="SettingsEditor" timestamp="1604723671284">
+    <state x="752" y="378" key="#Scopes" timestamp="1604724255062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604723671284" />
+    <state x="752" y="378" key="#Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1604724255062" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604724393093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604724393093" />
+    <state x="784" y="421" key="Github.CreateGistDialog" timestamp="1604724798882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604724798882" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604724577599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604724577599" />
     <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1604723605106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604723605106" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604724328365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604724328365" />
   </component>
 </project>
