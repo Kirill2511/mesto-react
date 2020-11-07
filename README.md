@@ -13,7 +13,7 @@
 ---
 
 - ### Ссылка на сайт:
-  [ Mesto Russia ](https://liacicati.github.io/mesto-react/)
+  [ Mesto Russia ]()
 
 ## Дополнительная информация:
 
