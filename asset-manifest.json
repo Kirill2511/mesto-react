@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Kirill2511/mesto-react/static/css/main.cee760f0.chunk.css",
-    "main.js": "/Kirill2511/mesto-react/static/js/main.1e7d1ba6.chunk.js",
-    "main.js.map": "/Kirill2511/mesto-react/static/js/main.1e7d1ba6.chunk.js.map",
-    "runtime-main.js": "/Kirill2511/mesto-react/static/js/runtime-main.f10053cb.js",
-    "runtime-main.js.map": "/Kirill2511/mesto-react/static/js/runtime-main.f10053cb.js.map",
-    "static/js/2.270b6351.chunk.js": "/Kirill2511/mesto-react/static/js/2.270b6351.chunk.js",
-    "static/js/2.270b6351.chunk.js.map": "/Kirill2511/mesto-react/static/js/2.270b6351.chunk.js.map",
-    "static/js/3.7f37cfaf.chunk.js": "/Kirill2511/mesto-react/static/js/3.7f37cfaf.chunk.js",
-    "static/js/3.7f37cfaf.chunk.js.map": "/Kirill2511/mesto-react/static/js/3.7f37cfaf.chunk.js.map",
-    "index.html": "/Kirill2511/mesto-react/index.html",
-    "static/css/main.cee760f0.chunk.css.map": "/Kirill2511/mesto-react/static/css/main.cee760f0.chunk.css.map",
-    "static/js/2.270b6351.chunk.js.LICENSE.txt": "/Kirill2511/mesto-react/static/js/2.270b6351.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Kirill2511/mesto-react/static/media/like.df0c9655.svg",
-    "static/media/avatar.bbe7c5b6.jpg": "/Kirill2511/mesto-react/static/media/avatar.bbe7c5b6.jpg",
-    "static/media/logo.c2821b38.svg": "/Kirill2511/mesto-react/static/media/logo.c2821b38.svg"
+    "main.css": "./static/css/main.349d8c38.chunk.css",
+    "main.js": "./static/js/main.1e7d1ba6.chunk.js",
+    "main.js.map": "./static/js/main.1e7d1ba6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.eb603a30.js",
+    "runtime-main.js.map": "./static/js/runtime-main.eb603a30.js.map",
+    "static/js/2.270b6351.chunk.js": "./static/js/2.270b6351.chunk.js",
+    "static/js/2.270b6351.chunk.js.map": "./static/js/2.270b6351.chunk.js.map",
+    "static/js/3.7f37cfaf.chunk.js": "./static/js/3.7f37cfaf.chunk.js",
+    "static/js/3.7f37cfaf.chunk.js.map": "./static/js/3.7f37cfaf.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.349d8c38.chunk.css.map": "./static/css/main.349d8c38.chunk.css.map",
+    "static/js/2.270b6351.chunk.js.LICENSE.txt": "./static/js/2.270b6351.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/like.df0c9655.svg",
+    "static/media/avatar.bbe7c5b6.jpg": "./static/media/avatar.bbe7c5b6.jpg",
+    "static/media/logo.c2821b38.svg": "./static/media/logo.c2821b38.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f10053cb.js",
+    "static/js/runtime-main.eb603a30.js",
     "static/js/2.270b6351.chunk.js",
-    "static/css/main.cee760f0.chunk.css",
+    "static/css/main.349d8c38.chunk.css",
     "static/js/main.1e7d1ba6.chunk.js"
   ]
 }
