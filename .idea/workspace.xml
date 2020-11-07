@@ -25,6 +25,7 @@
     <list default="true" id="d4eec4e9-25d9-4d7b-937d-6e730fa2b0af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,12 +50,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="1" />
-                    <option name="lastUsedInstant" value="1604723957" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1604768764" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1604723956" />
+                    <option name="branchName" value="1" />
+                    <option name="lastUsedInstant" value="1604723957" />
                   </RecentBranch>
                 </list>
               </option>
@@ -158,7 +159,7 @@
       <workItem from="1604723458490" duration="883000" />
       <workItem from="1604724364447" duration="230000" />
       <workItem from="1604724602313" duration="1900000" />
-      <workItem from="1604767771567" duration="802000" />
+      <workItem from="1604767771567" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="Delete">
       <created>1604723500470</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604726550492</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sprint 10">
+      <created>1604768757970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768757970</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,14 +241,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="784" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604724798882" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1604769388539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604769388539" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1604769388538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604769388538" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1604769388538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604769388538" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1604769388538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604769388538" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1604724577599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604724577599" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1604723605106">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1604768804321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604723605106" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604768804321" />
     <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604724328365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
