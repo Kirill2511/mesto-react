@@ -1,7 +1,7 @@
 import React from "react";
 import PopupWithForm from "./FormWithPopup";
 
-function DeleteWithPopup(props) {
+function DeletePopup(props) {
   function handleSubmit(e) {
     e.preventDefault();
     props.onDelete();
@@ -27,4 +27,4 @@ function DeleteWithPopup(props) {
   );
 }
 
-export default DeleteWithPopup;
+export default DeletePopup;
