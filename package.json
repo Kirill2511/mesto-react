@@ -1,4 +1,10 @@
 {
+  "author": {
+    "name" : "Kirill Larionov",
+    "email" : "kirill.kirill2@yandex.ru",
+    "url" : "https://kirill2511.github.io/mesto-react/"
+  },
+  "description": "Сервис, где люди делятся фотографиями интересных мест",
   "name": "mesto-react",
   "version": "0.1.0",
   "private": true,
